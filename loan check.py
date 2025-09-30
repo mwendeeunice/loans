@@ -1,3 +1,9 @@
+/*
+Name:Eunice Mwende
+Reg:CT100/G/26231/25
+*/
+
+
 MIN_AGE = 21
 MIN_INCOME = 21000
 
@@ -14,4 +20,5 @@ try:
 
 except ValueError:
     print("\nError: Enter valid numbers only.")
+
 ```
