@@ -1,3 +1,7 @@
+/*
+Name:Eunice Mwende
+Reg:CT100/G/26231/25
+*/
 #include <stdio.h>
 
 int main() {
@@ -21,4 +25,5 @@ int main() {
     }
 
     return 0;
+
 }
